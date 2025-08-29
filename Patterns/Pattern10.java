@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Pattern10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Diamond Half Pattern");
         System.out.print("Enter the number: ");
         int x = sc.nextInt();
         pattern(x);
