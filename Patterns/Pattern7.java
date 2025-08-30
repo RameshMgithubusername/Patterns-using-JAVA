@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Pattern7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Centered Pyramid Star Pattern");
         System.out.print("Enter the number: ");
         int x = sc.nextInt();
         pattern(x);
