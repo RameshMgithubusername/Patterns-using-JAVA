@@ -4,6 +4,7 @@ public class Pattern21 {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Hollow Square Pattern");
         System.out.print("Enter number:");
         int x = sc.nextInt();
         pattern1(x);
