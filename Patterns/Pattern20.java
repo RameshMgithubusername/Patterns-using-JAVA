@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Pattern20 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.pritnln("Hollow Hourglass Star Pattern");
         System.out.print("Enter the number: ");
         int x = sc.nextInt();
         pattern(x);
