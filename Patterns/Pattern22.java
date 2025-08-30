@@ -5,6 +5,7 @@ public class Pattern22 {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
+        System.out.pritnln("Number Square Spiral Layer Pattern");
         System.out.print("Enter number:");
         int x = sc.nextInt();
         pattern1(x);
