@@ -4,6 +4,7 @@ public class Pattern4 {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Right-Angled Number Triangle");
         System.out.print("Enter number:");
         int x = sc.nextInt();
         pattern1(x);
